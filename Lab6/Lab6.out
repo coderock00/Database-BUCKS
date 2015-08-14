@@ -1,0 +1,38 @@
+
+    0.Exit
+    1.See Beer
+    2.See Future
+    3.See if a Brewery has no Future contracts
+    
+what would you like to do? ((1L, 'BeerName', 'BeerDescription ', None),)
+((2L, 'IPA', 'Cask', None),)
+((3L, 'Belgian Lag.', 'Draft', None),)
+((44L, 'adfa', 'adf', None),)
+
+    0.Exit
+    1.See Beer
+    2.See Future
+    3.See if a Brewery has no Future contracts
+    
+what would you like to do? ((1L, "5 C's  07232015 IPA $7", 'Grapefruit infused, a refreshing hot afternooon pint', datetime.date(2015, 7, 23)),)
+((2L, 'Telementry 07242015 Stout $6', 'Iced coffee inspired stout with a refinded after taste', datetime.date(2015, 7, 24)),)
+((3L, 'Belgin Wit 07252015 Blonde $5', 'Belgin inspired beer with a strong banana tone with a revitalizing hops', datetime.date(2015, 7, 25)),)
+((4L, 'Best Bitter  07262015 Wheat %5', 'English beer with light copper colour, very balanced with clean hops and tones', datetime.date(2015, 7, 26)),)
+((5L, 'Aussie Black 07272015 Ale %7', 'Austrialin beer brewed with glaxay, vicotria secret, and ella. Roasty and hoppy', None),)
+
+    0.Exit
+    1.See Beer
+    2.See Future
+    3.See if a Brewery has no Future contracts
+    
+what would you like to do? ((45L,),)
+((46L,),)
+((47L,),)
+all Brewery(s) have at least 1 Future contract
+
+    0.Exit
+    1.See Beer
+    2.See Future
+    3.See if a Brewery has no Future contracts
+    
+what would you like to do? 
